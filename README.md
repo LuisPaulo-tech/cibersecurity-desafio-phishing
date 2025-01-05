@@ -1,5 +1,9 @@
 # Phishing para captura de senhas do Facebook
 
+### Utilizando uma máquina virtual
+
+- Executando na Oracle Virtual Box
+
 ### Ferramentas
 
 - Kali Linux
